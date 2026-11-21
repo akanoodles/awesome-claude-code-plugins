@@ -233,6 +233,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [mobile-app-builder](./plugins/mobile-app-builder)
 - [html-report](https://github.com/panhongwei/html-report)
 - [project-curator](./plugins/project-curator)
+- [token-optimiser](https://github.com/noodleTownHQ/token-optimiser) - Routes each prompt to the cheapest Claude model that can do it (35% less on 849 replayed turns) and keeps tool output small. Also an oh-my-pi extension.
 - [python-expert](./plugins/python-expert)
 - [rapid-prototyper](./plugins/rapid-prototyper)
 - [react-native-dev](./plugins/react-native-dev)
